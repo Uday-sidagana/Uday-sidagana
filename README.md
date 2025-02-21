@@ -38,5 +38,5 @@ I'm a 4th-year student at Chandigarh University, passionate about software devel
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Uday-sidagana&repo=DiscordCalendar&theme=radical)](https://github.com/Uday-sidagana/DiscordCalendar)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Uday-sidagana&repo=Panda-TheAssistant&theme=radical)](https://github.com/Uday-sidagana/Panda-TheAssistant)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Uday-sidagana&repo=Flask-AI-App&theme=radical)](https://github.com/Uday-sidagana/Flask-AI-App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Uday-sidagana&repo=Pypi-contribution&theme=radical)](https://github.com/Uday-sidagana/Pypi-contribution)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Uday-sidagana&repo=FitnessApp&theme=radical)](https://github.com/Uday-sidagana/FitnessApp)
