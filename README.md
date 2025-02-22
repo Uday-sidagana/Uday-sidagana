@@ -15,11 +15,19 @@ I'm a 4th-year student at Chandigarh University, passionate about software devel
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
 
 ### 📡 APIs & Integrations:
 ![Google Calendar API](https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)
 ![Composio API](https://img.shields.io/badge/Composio_API-1D4ED8?style=for-the-badge&logo=api&logoColor=white)
 ![Discord API](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Postman API](https://img.shields.io/badge/Postman_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Telegram API](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Google Gemini API](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Yahoo Finance API](https://img.shields.io/badge/Yahoo_Finance_API-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)
+![TwelveData API](https://img.shields.io/badge/TwelveData_API-FF6C37?style=for-the-badge&logo=chartjs&logoColor=white)
 
 
 ## 📊 GitHub Contributions
