@@ -7,7 +7,6 @@ I'm a 4th-year student at Chandigarh University, passionate about software devel
 
 - 🌱 I’m currently making **cool PYTHON Projects**.
 - 👯 I’m looking to collaborate on **open-source projects**.
-- 💬 Ask me about **Python and System Design**.
 
 ## 🛠️ Technologies & Tools
 
