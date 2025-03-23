@@ -33,7 +33,7 @@ I'm a 4th-year student at Chandigarh University, passionate about software devel
 
 ![GitHub Contribution Chart](https://github-readme-activity-graph.vercel.app/graph?username=Uday-sidagana&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Uday-sidagana&theme=radical&hide_border=true)
+
 
 
 ## 🔗 Connect with Me
