@@ -1,26 +1,13 @@
 # I'M UDAY SIDAGANA
 
-**`Student Developer | Open Source Enthusiast`**
+**SDE-Intern at Composio**
 
-I'm a 4th-year student at Chandigarh University, passionate about software development and open-source contributions. I'm currently working on several projects and eager to collaborate on exciting ventures.
-
-- 🌱 I’m currently making **cool PYTHON Projects**.
-- 👯 I’m looking to collaborate on **open-source projects**.
-
-## 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+Composio SDK 0.7.15
 
 
 ## 📊 GitHub Contributions
 
 ![GitHub Contribution Chart](https://github-readme-activity-graph.vercel.app/graph?username=Uday-sidagana&theme=radical)
-
-
 
 
 ## 🔗 Connect with Me
