@@ -1,9 +1,5 @@
 # I'M UDAY SIDAGANA
 
-**SDE-Intern at Composio**
-
-Composio SDK 0.7.15
-
 
 ## 📊 GitHub Contributions
 
